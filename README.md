@@ -1,2 +1,19 @@
-# Conceptos_EnJavaFx
-En este repositorio se demostrara diversos conceptos parcheados de java utilizando la libreria Fx como interfaz; Con el fin de poder usarlos en futuros proyectos de manera profecional.
+# _Mecanicas Y Conceptos_EnJavaFx_
+
+## _Introduccion:_
+
+En este repositorio se demostrará diversos conceptos parcheados de
+java utilizando la libreria de interfaz Fx; Con el fin de poder implementarlos en futuros proyectos de
+manera profecional.
+
+---
+
+## [_FxPanes Class_](./FxPanes)
+
+La clase JavaFx Pane es un contenedor de diseño que puede contener otros componentes Fx
+internamente y distribuirlos. En esta carpeta se demostrarán diversos ejemplos sobre el manejo de los 
+Panes. 
+
+---
+
+## [_FxBotones Class_](./FxBotones)

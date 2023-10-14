@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/EjemplosJavaFx/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/EjemplosJavaFx/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ejemplos_Pane/Ejemplo_02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ejemplos_Pane/Ejemplo_02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FxBotones/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FxBotones/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FxPanes/Ejemplo_02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FxPanes/Ejemplo_02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FxPanes/Ejemplo_03/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FxPanes/Ejemplo_03/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FxPanes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FxPanes/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

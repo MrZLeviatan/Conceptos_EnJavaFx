@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="mrzleviatan.ejemplo_02.ViewController.Vista02Controller">
+   <children>
+      <Text layoutX="254.0" layoutY="154.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Hola Vista 02" />
+      <ProgressBar layoutX="189.0" layoutY="215.0" prefWidth="200.0" progress="0.0" />
+   </children>
+</AnchorPane>

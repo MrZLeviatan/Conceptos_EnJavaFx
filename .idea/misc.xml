@@ -6,7 +6,18 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/EjemplosJavaFx/pom.xml" />
+        <option value="$PROJECT_DIR$/Ejemplos_Pane/Ejemplo_03/pom.xml" />
+        <option value="$PROJECT_DIR$/Ejemplos_Pane/pom.xml" />
+        <option value="$PROJECT_DIR$/Ejemplos_Pane/Ejemplo_02/pom.xml" />
+        <option value="$PROJECT_DIR$/FxBotones/pom.xml" />
+        <option value="$PROJECT_DIR$/FxPanes/Ejemplo_02/pom.xml" />
+        <option value="$PROJECT_DIR$/FxPanes/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Ejemplos_Pane/Ejemplo_03/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">

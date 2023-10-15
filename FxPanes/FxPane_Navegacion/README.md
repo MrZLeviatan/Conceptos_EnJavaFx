@@ -10,4 +10,4 @@ demuestran los diferentes ejemplos de la navegacion entre FxPanes.
 ## _FxPanes sobre FxPanes_
 
 - [_Ejemplo 02_](./Ejemplo_02): En este ejemplo se demuestra el uso de navegacion entre
-diferentes vistas (.fxml) dentro de un FxPane, mediante el uso de [_Botones_]()
+diferentes vistas (.fxml) dentro de un FxPane, mediante el uso de [_Botones_](https://github.com/MrZLeviatan/Conceptos_EnJavaFx/tree/master/FxBotones)

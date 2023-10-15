@@ -6,9 +6,10 @@ los Panes.
 
 ---
 
-## [_Ejemplo 02_](./Ejemplo_02)
+## [_FxPane - Navegacion_](./FxPane_Navegacion)
 
-En este ejemplo se demuestra el uso de la tecnica "Responsive", que consiste en llamar diversos
-FxPanes dentro de un FxPane mediante el uso de [Evento De Botones]().
+La navegación entre paneles (Pane) en JavaFX se refiere a la acción de cambiar o alternar 
+entre diferentes vistas (.fxml) o escenas dentro de una aplicación JavaFX. En esta carpeta se 
+demuestran los diferentes ejemplos de la navegacion entre FxPanes.
 
-- [ ] 
+---
